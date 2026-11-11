@@ -1,0 +1,796 @@
+[
+  {
+    "id": "BIS001",
+    "category": "standards",
+    "question": "What is BIS?",
+    "alt_questions": [
+      "What is the Bureau of Indian Standards?",
+      "BIS kya hai?",
+      "बीआईएस क्या है?",
+      "भारतीय मानक ब्यूरो क्या है?",
+      "Tell me about BIS India"
+    ],
+    "answer": "The Bureau of Indian Standards (BIS) is the National Standards Body of India. BIS develops and publishes Indian Standards, implements conformity assessment schemes, recognises and runs laboratories for conformity assessment, implements hallmarking, works for consumer empowerment, conducts capacity building programmes on quality assurance, and represents the country in ISO and IEC.",
+    "source": "BIS official website — About BIS (home page)",
+    "url": "https://www.bis.gov.in/homes-new/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS002",
+    "category": "standards",
+    "question": "What are the main activities of BIS?",
+    "alt_questions": [
+      "What does BIS do?",
+      "What are the functions of BIS?",
+      "बीआईएस के कार्य क्या हैं?",
+      "BIS ke kaam kya hain?"
+    ],
+    "answer": "BIS lists its main activities as: developing and publishing Indian Standards; implementing conformity assessment schemes; recognising and running laboratories for conformity assessment; implementing hallmarking; working for consumer empowerment; conducting capacity building programmes on quality assurance; and representing India in ISO and IEC.",
+    "source": "BIS official website — About BIS (home page)",
+    "url": "https://www.bis.gov.in/homes-new/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS003",
+    "category": "standards",
+    "question": "What is an Indian Standard (IS)?",
+    "alt_questions": [
+      "What is the purpose of Indian Standards?",
+      "What does IS 456 mean?",
+      "What is an IS code?",
+      "भारतीय मानक क्या है?",
+      "Indian Standard ka uddeshya kya hai?",
+      "Why are Indian Standards needed?"
+    ],
+    "answer": "An Indian Standard (IS) is a standard developed and published by BIS. It sets out the requirements that a product must meet, and it is the reference against which BIS certification is carried out: a BIS licence to use the Standard Mark is granted only where the product conforms to the relevant Indian Standard. Indian Standards are identified by an IS number and year, for example IS 1417:2016.",
+    "source": "BIS official website — About BIS; Product Certification FAQ",
+    "url": "https://www.bis.gov.in/product-certification/product-certification-faq/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS004",
+    "category": "standards",
+    "question": "Is BIS certification compulsory for every product?",
+    "alt_questions": [
+      "Is BIS certification mandatory?",
+      "Do I need an ISI mark for my product?",
+      "BIS certification is voluntary or compulsory?",
+      "क्या BIS प्रमाणन हर उत्पाद के लिए अनिवार्य है?"
+    ],
+    "answer": "No. BIS certification is basically voluntary in nature. However, for a number of products the Central Government makes compliance compulsory — on considerations such as public interest, protection of human, animal or plant health, safety of the environment, prevention of unfair trade practices and national security. For those products the Central Government directs mandatory use of the Standard Mark under a licence or Certificate of Conformity (CoC) from BIS, through Quality Control Orders (QCOs).",
+    "source": "BIS official website — Products under Compulsory Certification",
+    "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS005",
+    "category": "standards",
+    "question": "What is a Quality Control Order (QCO)?",
+    "alt_questions": [
+      "What is QCO in BIS?",
+      "How does a product become compulsory for BIS certification?",
+      "क्यूसीओ क्या है?",
+      "QCO kya hota hai?"
+    ],
+    "answer": "A Quality Control Order (QCO) is the notification through which the Central Government directs mandatory use of the Standard Mark, under a Licence or Certificate of Conformity (CoC) from BIS, for specified products. BIS publishes the list of products under compulsory certification and a guidance document on QCOs on its website.",
+    "source": "BIS official website — Products under Compulsory Certification",
+    "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS006",
+    "category": "standards",
+    "question": "How can I find which Indian Standard applies to my product?",
+    "alt_questions": [
+      "How to find IS code for a product?",
+      "Which IS standard is applicable to my material?",
+      "मेरे उत्पाद पर कौन सा भारतीय मानक लागू है?",
+      "Mere product ke liye kaunsa standard hai?"
+    ],
+    "answer": "You can search for the Indian Standard against a product on the BIS online portal, manakonline.in. If you cannot find the relevant Indian Standard, BIS advises sending a query to the concerned technical department of BIS. For products covered under product certification, BIS also publishes Product Manuals, Schemes of Inspection and Testing (SIT) and grouping guidelines.",
+    "source": "BIS official website — Product Certification FAQ",
+    "url": "https://www.bis.gov.in/product-certification/product-certification-faq/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS007",
+    "category": "standards",
+    "question": "Where can I see new, revised and draft Indian Standards?",
+    "alt_questions": [
+      "Where are new standards published?",
+      "How do I know if a standard has been revised?",
+      "नए और संशोधित मानक कहाँ देखें?",
+      "Latest IS standards kahan milenge?"
+    ],
+    "answer": "BIS provides 'New Standards', 'Revised Standards', 'Standards under Review' and 'Wide Circulation Drafts' sections on its website, together with a 'Know Your Standard' facility and a list of products with their associated Indian Standards.",
+    "source": "BIS official website — Standards section",
+    "url": "https://www.bis.gov.in/homes-new/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS008",
+    "category": "standards",
+    "question": "What are Scheme-I, Scheme-II, Scheme-IV and Scheme-X under BIS certification?",
+    "alt_questions": [
+      "What are the BIS certification schemes?",
+      "What is Scheme 1 and Scheme 2 in BIS?",
+      "बीआईएस की योजनाएँ कौन सी हैं?"
+    ],
+    "answer": "For products under compulsory certification, BIS lists Scheme-I (Mark Scheme), Scheme-II (Registration Scheme), Scheme-IV (Certificate of Conformity) and Scheme-X (Certification). Scheme-I of the BIS (Conformity Assessment) Regulations, 2018 is the product certification scheme for use of the mark.",
+    "source": "BIS official website — Products under Compulsory Certification; Product Certification Process",
+    "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS009",
+    "category": "certification",
+    "question": "What is BIS certification?",
+    "alt_questions": [
+      "What is ISI mark certification?",
+      "What does the ISI mark mean?",
+      "BIS certification kya hai?",
+      "बीआईएस प्रमाणन क्या है?",
+      "What is a BIS licence?"
+    ],
+    "answer": "BIS product certification is a licence under which a manufacturer is permitted to use the Standard Mark (the ISI mark) on a product that conforms to the relevant Indian Standard. A licence is granted under the BIS (Conformity Assessment) Regulations, 2018, and BIS's product certification scheme is basically voluntary — but it is compulsory for products notified under Quality Control Orders.",
+    "source": "BIS official website — Product Certification Overview",
+    "url": "https://www.bis.gov.in/product-certification/product-certification-overview/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS010",
+    "category": "certification",
+    "question": "What does a manufacturer need before applying for a BIS licence?",
+    "alt_questions": [
+      "What are the eligibility requirements for BIS certification?",
+      "What infrastructure is needed for ISI mark?",
+      "BIS लाइसेंस के लिए क्या आवश्यक है?"
+    ],
+    "answer": "For a BIS licence the manufacturer must have the requisite manufacturing infrastructure, appropriate process controls, and quality control and testing capabilities for the product as per the relevant Indian Standard. The product must also conform to all the requirements laid down in that standard.",
+    "source": "BIS official website — Product Certification FAQ (Q4)",
+    "url": "https://www.bis.gov.in/product-certification/product-certification-faq/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS011",
+    "category": "certification",
+    "question": "How do I apply for BIS product certification?",
+    "alt_questions": [
+      "What is the process to get an ISI mark licence?",
+      "Where do I submit a BIS application?",
+      "BIS certification ke liye apply kaise karein?",
+      "बीआईएस लाइसेंस के लिए आवेदन कैसे करें?"
+    ],
+    "answer": "BIS accepts applications for product certification in online mode only, including all payments, through its online portal at manakonline.in. Separate applications are required for each product and Indian Standard, and separately for each factory location, even when the product or standard is the same.",
+    "source": "BIS official website — Product Certification FAQ (Q7, Q10, Q11)",
+    "url": "https://www.bis.gov.in/product-certification/product-certification-faq/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS012",
+    "category": "certification",
+    "question": "What are the fees for a BIS product certification licence?",
+    "alt_questions": [
+      "How much does BIS certification cost?",
+      "BIS licence fees kitni hai?",
+      "बीआईएस प्रमाणन का शुल्क कितना है?"
+    ],
+    "answer": "As published in BIS's product certification FAQ: the application is submitted with an application fee of Rs 1,000; an inspection fee of Rs 7,000 per man-day is payable before the preliminary inspection visit; and after the decision to grant the licence, an annual licence fee of Rs 1,000 plus the minimum marking fee specified for the product is payable. The marking fee for each product is given in Annexure I of Scheme I of the BIS (Conformity Assessment) Regulations, 2018. Fee amounts are revised from time to time, so confirm the current figures on the BIS website before paying.",
+    "source": "BIS official website — Product Certification FAQ (Q14)",
+    "url": "https://www.bis.gov.in/product-certification/product-certification-faq/?lang=en",
+    "verified": true,
+    "time_sensitive": true,
+    "note": "Figures are as published on the BIS FAQ page when checked on 2026-11-07; verify current fees with BIS.",
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS013",
+    "category": "certification",
+    "question": "How long does BIS take to grant a product certification licence?",
+    "alt_questions": [
+      "How many months for ISI licence?",
+      "BIS certification timeline",
+      "बीआईएस लाइसेंस मिलने में कितना समय लगता है?"
+    ],
+    "answer": "BIS states that the average time taken for grant of a licence is generally one month under option-2 and four months under option-1, from the date of receipt of a complete application and its recording. BIS notes this may vary because of delays in responding to queries, organising inspection, sample deposition and fee dues.",
+    "source": "BIS official website — Product Certification FAQ (Q15)",
+    "url": "https://www.bis.gov.in/product-certification/product-certification-faq/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS014",
+    "category": "certification",
+    "question": "How long is a BIS licence valid and how is it renewed?",
+    "alt_questions": [
+      "When does BIS licence expire?",
+      "BIS licence renewal process",
+      "बीआईएस लाइसेंस की वैधता कितनी होती है?"
+    ],
+    "answer": "Under Scheme-I, a BIS licence may initially be granted for up to two years and is valid only for the varieties mentioned in the licence. For extension, an application with the requisite fee and documents is submitted under the existing licence, and a licence may be renewed up to five years from the last date of validity. Renewal is requested online through manakonline, from the licence holder's dashboard, with production details for the relevant period and the relevant fee.",
+    "source": "BIS official website — Product Certification FAQ (Q18, Q19)",
+    "url": "https://www.bis.gov.in/product-certification/product-certification-faq/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS015",
+    "category": "certification",
+    "question": "Does BIS inspect factories after granting a licence?",
+    "alt_questions": [
+      "What is BIS factory surveillance?",
+      "How does BIS check ISI marked products?",
+      "लाइसेंस मिलने के बाद बीआईएस निरीक्षण करता है?"
+    ],
+    "answer": "Yes. After a licence is granted, BIS carries out surprise factory surveillance inspections — through visits by BIS certification officers or personnel of agents appointed by BIS, as per Rule 33 of the BIS Rules, 2018. During such visits BIS verifies that the manufacturer continues to maintain the manufacturing infrastructure, process controls, quality control and testing capabilities, and witnesses testing of product samples in the factory. Samples of ISI-marked product are also drawn from the factory, and BIS purchases samples from the market (market surveillance), for testing in a third-party laboratory.",
+    "source": "BIS official website — Product Certification FAQ (Q21)",
+    "url": "https://www.bis.gov.in/product-certification/product-certification-faq/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS016",
+    "category": "certification",
+    "question": "What is the Registration Scheme (Scheme-II) for compulsory registration?",
+    "alt_questions": [
+      "What is CRS in BIS?",
+      "What is Compulsory Registration Scheme?",
+      "सीआरएस योजना क्या है?"
+    ],
+    "answer": "BIS lists a Registration Scheme (Scheme-II) among the schemes used for products under compulsory certification, along with Scheme-I (Mark Scheme), Scheme-IV (Certificate of Conformity) and Scheme-X (Certification). BIS publishes the registration process, the list of BIS-recognised labs and the list of registered manufacturers on its website.",
+    "source": "BIS official website — Products under Compulsory Certification",
+    "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/?lang=en",
+    "verified": true,
+    "note": "The products covered by the Registration Scheme are listed on BIS's Registration Scheme pages; check them for the current scope.",
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS017",
+    "category": "hallmarking",
+    "question": "What is hallmarking?",
+    "alt_questions": [
+      "What does a BIS hallmark mean?",
+      "What is gold hallmarking?",
+      "हॉलमार्किंग क्या है?",
+      "Hallmarking kya hai?"
+    ],
+    "answer": "Hallmarking is the accurate determination and official recording of the proportionate content of precious metal in precious metal articles (as per IS 15820). Hallmarks are official marks used in India as a guarantee of purity or fineness of precious metal articles. The objectives of the scheme are to protect the public against adulteration and to obligate manufacturers to maintain legal standards of fineness. In India, gold and silver are covered under hallmarking.",
+    "source": "BIS official website — Hallmarking Overview; Hallmarking FAQ (Q1, Q2, Q5)",
+    "url": "https://www.bis.gov.in/hallmarking/hallmarking-faq/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS018",
+    "category": "hallmarking",
+    "question": "Which Indian Standards cover hallmarking?",
+    "alt_questions": [
+      "Which IS code is used for hallmarking?",
+      "What is IS 1417 and IS 2112?",
+      "हॉलमार्किंग के लिए कौन से भारतीय मानक हैं?"
+    ],
+    "answer": "BIS's hallmarking FAQ lists: IS 1417:2016 (Gold and gold alloys, jewellery/artefacts — fineness and marking), IS 2112:2014 (Silver and silver alloys, jewellery/artefacts — fineness and marking), IS 15820:2009 (general requirements for establishment and operation of assaying and hallmarking centres), IS 1418:2009 (determination of gold by cupellation/fire assay), IS 2113:2014 (assaying silver) and IS 17278:2019 (refined gold and silver bars for good delivery).",
+    "source": "BIS official website — Hallmarking FAQ (Q3)",
+    "url": "https://www.bis.gov.in/hallmarking/hallmarking-faq/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS019",
+    "category": "hallmarking",
+    "question": "Which purity grades can be hallmarked?",
+    "alt_questions": [
+      "What caratage of gold is hallmarked?",
+      "Is 20K or 23K gold hallmarked?",
+      "कौन सी शुद्धता वाले सोने पर हॉलमार्क होता है?",
+      "सोने की शुद्धता के ग्रेड क्या हैं",
+      "which gold purity is allowed in hallmarking"
+    ],
+    "answer": "IS 1417:2016 permits hallmarking of six caratages of gold jewellery/artefacts: 14K (585), 18K (750), 20K (833), 22K (916), 23K (958) and 24K (995). IS 2112:2014 permits six grades of silver jewellery/artefacts: 800, 835, 900, 925, 970 and 990 fineness.",
+    "source": "BIS official website — Hallmarking FAQ (Q4)",
+    "url": "https://www.bis.gov.in/hallmarking/hallmarking-faq/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS020",
+    "category": "hallmarking",
+    "question": "What is HUID?",
+    "alt_questions": [
+      "What is the 6 digit HUID number on jewellery?",
+      "How do I read a hallmark HUID?",
+      "एचयूआईडी क्या है?",
+      "HUID number ka matlab kya hai?"
+    ],
+    "answer": "HUID is the Hallmark Unique Identification number. It is one of the components of the hallmark: a six-digit alphanumeric number that is unique for each hallmarked item. Consumers can use the HUID number to verify the authenticity and purity of hallmarked gold jewellery through the BIS Care app.",
+    "source": "BIS official website — Hallmarking FAQ (Q8); Consumer Protection page",
+    "url": "https://www.bis.gov.in/hallmarking/hallmarking-faq/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS021",
+    "category": "hallmarking",
+    "question": "How does a jeweller get registered to sell hallmarked jewellery?",
+    "alt_questions": [
+      "How does a jeweller become BIS registered?",
+      "Jeweller registration process BIS",
+      "जौहरी का बीआईएस पंजीकरण कैसे होता है?"
+    ],
+    "answer": "A jeweller who wants a certificate of registration for selling hallmarked gold and silver jewellery/artefacts applies online on the BIS portal at manakonline.in. The certificate of registration is granted instantly, without the need to upload any document or pay any fee, and it stands valid for lifetime.",
+    "source": "BIS official website — Hallmarking Overview",
+    "url": "https://www.bis.gov.in/hallmarking/hallmarking-overview/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS022",
+    "category": "hallmarking",
+    "question": "What are the hallmarking charges?",
+    "alt_questions": [
+      "How much does it cost to hallmark gold jewellery?",
+      "Hallmarking fee per article",
+      "हॉलमार्किंग का शुल्क कितना है?"
+    ],
+    "answer": "BIS's hallmarking FAQ states hallmarking charges of Rs 45 per gold article, with a minimum of Rs 200 per consignment, and Rs 35 per silver article, with a minimum of Rs 150 per consignment (service tax and other levies as applicable extra). Charges are paid per article irrespective of weight, and do not include making and wastage charges. Rates can be revised, so confirm the current charges with BIS or your Assaying and Hallmarking Centre.",
+    "source": "BIS official website — Hallmarking FAQ (Q11, Q12, Q13)",
+    "url": "https://www.bis.gov.in/hallmarking/hallmarking-faq/?lang=en",
+    "verified": true,
+    "time_sensitive": true,
+    "note": "Charges are as published on the BIS FAQ page when checked on 2026-11-07; verify current rates with BIS.",
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS023",
+    "category": "testing",
+    "question": "Which laboratory test reports are acceptable to BIS for a licence?",
+    "alt_questions": [
+      "Which labs are recognised by BIS?",
+      "Can I use any lab report for BIS certification?",
+      "कौन सी प्रयोगशाला की रिपोर्ट बीआईएस स्वीकार करता है?"
+    ],
+    "answer": "Test reports acceptable for grant of a licence under option-2 are those issued only by BIS, or by a BIS-recognised or BIS-empanelled laboratory for that product. BIS publishes the IS-wise list of testing facilities and the lists of BIS-recognised and empanelled laboratories on its website.",
+    "source": "BIS official website — Product Certification FAQ (Q12)",
+    "url": "https://www.bis.gov.in/product-certification/product-certification-faq/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS024",
+    "category": "testing",
+    "question": "How old can a product test report be for BIS certification?",
+    "alt_questions": [
+      "What is the validity of a test report for BIS licence?",
+      "Is a 90 day old test report valid?",
+      "टेस्ट रिपोर्ट की वैधता कितनी है?"
+    ],
+    "answer": "Test reports for the product should generally not be more than 90 days old for the purpose of grant of a licence under option-2. BIS's FAQ points to the Guidelines for Grant of Licence for complete details.",
+    "source": "BIS official website — Product Certification FAQ (Q13)",
+    "url": "https://www.bis.gov.in/product-certification/product-certification-faq/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS025",
+    "category": "testing",
+    "question": "Can a consumer get jewellery tested for purity?",
+    "alt_questions": [
+      "Where can I test my gold jewellery purity?",
+      "Is consumer testing available at hallmarking centres?",
+      "क्या उपभोक्ता अपना गहना जाँच करा सकता है?",
+      "सोने की शुद्धता कैसे जांचें",
+      "गहने की शुद्धता की जाँच कैसे करें",
+      "how to check purity of gold jewellery",
+      "where to test gold purity"
+    ],
+    "answer": "Yes. A consumer can get jewellery or samples tested at any BIS-recognised Assaying and Hallmarking Centre; these centres undertake testing of jewellery/samples of common consumers on priority on a chargeable basis and issue an assay report giving proper identification of the article. BIS's hallmarking FAQ gives a testing charge of Rs 200 for testing by the fire assay method (IS 1418). Note that only BIS-registered/certified jewellers can approach a centre for hallmarking itself; a consumer's testing is separate.",
+    "source": "BIS official website — Consumer Protection page; Hallmarking FAQ (Q21, Q25)",
+    "url": "https://www.bis.gov.in/consumer-engagement/consumer-protection/?lang=en",
+    "verified": true,
+    "time_sensitive": true,
+    "note": "Testing charge as published on BIS FAQ page when checked on 2026-11-07; confirm current charges.",
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS026",
+    "category": "testing",
+    "question": "How is an Assaying and Hallmarking Centre recognised by BIS?",
+    "alt_questions": [
+      "What rules apply to assaying and hallmarking centres?",
+      "How to set up a BIS hallmarking centre?",
+      "हॉलमार्किंग सेंटर को बीआईएस मान्यता कैसे मिलती है?"
+    ],
+    "answer": "BIS recognises Assaying and Hallmarking Centres on the basis of IS 15820:2009, 'General Requirements for Establishment and Operation of Assaying and Hallmarking Centres'. A centre applies to BIS on the prescribed application form along with its quality manual, developed on the basis of BIS's Generic Quality Manual.",
+    "source": "BIS official website — Hallmarking Overview",
+    "url": "https://www.bis.gov.in/hallmarking/hallmarking-overview/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS027",
+    "category": "testing",
+    "question": "How many laboratories does BIS operate?",
+    "alt_questions": [
+      "How many BIS labs are there in India?",
+      "List of BIS laboratories",
+      "बीआईएस की कितनी प्रयोगशालाएँ हैं?"
+    ],
+    "answer": "This prototype's BIS knowledge base does not contain a verified figure for the number of laboratories BIS operates. BIS states that it recognises and runs laboratories for conformity assessment, and it publishes the lists of BIS-recognised and empanelled laboratories on bis.gov.in — please check those current lists, or contact BIS, rather than relying on a number.",
+    "source": "BIS official website — Laboratory Services section",
+    "url": "https://www.bis.gov.in/laboratory-services/",
+    "verified": false,
+    "note": "A current official count could not be confirmed during dataset preparation; the figure is deliberately not stated.",
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS028",
+    "category": "consumer",
+    "question": "How can a consumer verify hallmarked gold jewellery?",
+    "alt_questions": [
+      "How do I check if my gold hallmark is genuine?",
+      "BIS Care app verify HUID",
+      "उपभोक्ता हॉलमार्क कैसे जाँचें?",
+      "सोने की शुद्धता कैसे जांचें",
+      "हॉलमार्क असली है या नहीं कैसे पता करें",
+      "how to verify gold hallmark authenticity",
+      "check HUID in BIS Care app"
+    ],
+    "answer": "BIS Care — the official mobile application of BIS — provides a 'Verify HUID' feature. A consumer can verify the authenticity of hallmarked gold jewellery items bearing a HUID number using this feature, and thereby check the purity of the article before purchase.",
+    "source": "BIS official website — Consumer Protection page",
+    "url": "https://www.bis.gov.in/consumer-engagement/consumer-protection/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS029",
+    "category": "consumer",
+    "question": "What if hallmarked jewellery is found to be of lower purity than marked?",
+    "alt_questions": [
+      "What compensation do I get for impure hallmarked gold?",
+      "Jewellery purity complaint BIS",
+      "हॉलमार्क से कम शुद्धता मिलने पर क्या करें?"
+    ],
+    "answer": "Where hallmarked jewellery bought by a consumer is found to be of lesser purity than marked on the jewellery, the buyer is entitled to compensation of two times the amount of the difference, calculated on the basis of the shortage of purity for the weight of the article sold, along with the testing charges.",
+    "source": "BIS official website — Consumer Protection page",
+    "url": "https://www.bis.gov.in/consumer-engagement/consumer-protection/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS030",
+    "category": "consumer",
+    "question": "Where can I find the list of registered jewellers and hallmarking centres?",
+    "alt_questions": [
+      "Which jewellers are BIS registered?",
+      "List of BIS hallmarking centres",
+      "पंजीकृत जौहरियों की सूची कहाँ मिलेगी?"
+    ],
+    "answer": "The list of BIS-registered/certified jewellers is available on the BIS website under the hallmarking section (Jewellers Registration Scheme — list of licensed jewellers). The list of BIS-recognised Assaying and Hallmarking Centres is published on the BIS portal manakonline.in.",
+    "source": "BIS official website — Hallmarking FAQ (Q23, Q24)",
+    "url": "https://www.bis.gov.in/hallmarking/hallmarking-faq/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS031",
+    "category": "consumer",
+    "question": "What should I look for in a jewellery shop when buying hallmarked jewellery?",
+    "alt_questions": [
+      "How to buy hallmarked gold safely?",
+      "What documents should the jeweller show?",
+      "सोना खरीदते समय क्या देखें?"
+    ],
+    "answer": "BIS's hallmarking FAQ says the registered/certified jeweller should display the BIS logo with the wording 'Hallmarked jewellery available for sale', must display its certificate of registration in the shop, and should have a magnifying glass of at least 10X magnification to show the hallmark. The relation of fineness with caratage should also be displayed. Consumers should take an authentic bill/invoice that includes details of the hallmarked articles, for any dispute or complaint.",
+    "source": "BIS official website — Hallmarking FAQ (Q14, Q15, Q16)",
+    "url": "https://www.bis.gov.in/hallmarking/hallmarking-faq/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS032",
+    "category": "consumer",
+    "question": "Where can a consumer get information about hallmarking?",
+    "alt_questions": [
+      "Where is hallmarking information on the BIS site?",
+      "हॉलमार्किंग की जानकारी कहाँ मिलेगी?"
+    ],
+    "answer": "Detailed information on hallmarking is provided in the hallmarking section of the BIS website, bis.gov.in. It includes general information on hallmarking, the hallmarking regulations, mandatory hallmarking orders, procedures and guidelines for jewellers and hallmarking centres, the forms, and the lists of registered jewellers and hallmarking centres.",
+    "source": "BIS official website — Hallmarking FAQ (Q22)",
+    "url": "https://www.bis.gov.in/hallmarking/hallmarking-faq/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS033",
+    "category": "consumer",
+    "question": "How can I check whether my product needs compulsory BIS certification?",
+    "alt_questions": [
+      "Is my product covered under BIS mandatory certification?",
+      "Which products need ISI mark?",
+      "मेरे उत्पाद पर बीआईएस प्रमाणन अनिवार्य है या नहीं?"
+    ],
+    "answer": "Check the BIS list of 'Products under Compulsory Certification' on bis.gov.in. Products are brought under compulsory certification by the Central Government as per the provisions of the BIS Act, 2016 or other Acts; if your product appears in that list, it is compulsory for you to obtain a BIS licence for it.",
+    "source": "BIS official website — Product Certification FAQ (Q3)",
+    "url": "https://www.bis.gov.in/product-certification/product-certification-faq/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS034",
+    "category": "consumer",
+    "question": "How can consumers find BIS-related information?",
+    "alt_questions": [
+      "Where should I go for official BIS information?",
+      "What is the official BIS website?",
+      "उपभोक्ता बीआईएस की जानकारी कहाँ से लें?"
+    ],
+    "answer": "The primary official source is the BIS website, bis.gov.in, which carries information on standards, product certification (including the list of products under compulsory certification and FAQs), hallmarking, laboratory services and consumer information. Applications and payments for certification, and jeweller registration, are handled on the BIS portal manakonline.in, and BIS Care is the official mobile app for consumers.",
+    "source": "BIS official website",
+    "url": "https://www.bis.gov.in/",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS035",
+    "category": "consumer",
+    "question": "What does BIS do for consumers?",
+    "alt_questions": [
+      "How does BIS protect consumers?",
+      "Consumer benefits of BIS",
+      "बीआईएस उपभोक्ताओं के लिए क्या करता है?"
+    ],
+    "answer": "BIS states that it works for consumer empowerment and implements hallmarking, and it operates conformity assessment schemes so that products bearing the Standard Mark conform to Indian Standards. For hallmarked jewellery, BIS provides for consumer testing at recognised Assaying and Hallmarking Centres, compensation where purity is found to be less than marked, and HUID verification through the BIS Care app.",
+    "source": "BIS official website — About BIS; Consumer Protection page",
+    "url": "https://www.bis.gov.in/consumer-engagement/consumer-protection/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS036",
+    "category": "standards",
+    "question": "Which Indian Standard applies to packaged drinking water?",
+    "alt_questions": [
+      "What is the BIS standard for packaged drinking water?",
+      "Which IS code is for packaged drinking water?",
+      "What is IS 14543?",
+      "IS 14543 packaged drinking water",
+      "What standard applies to bottled drinking water?",
+      "Which standard covers packaged water other than natural mineral water?",
+      "packaged drinking water standard",
+      "bottled water BIS standard",
+      "पैकेज्ड पीने के पानी का BIS मानक क्या है?",
+      "बोतलबंद पानी के लिए कौन सा IS कोड है?"
+    ],
+    "answer": "The applicable Indian Standard for packaged drinking water other than packaged natural mineral water is IS 14543:2024, titled “Packaged Drinking Water (Other than Packaged Natural Mineral Water) — Specification” (Third Revision). BIS's official product manual identifies this standard as IS 14543:2024. Do not use the older 2004 edition as the current edition. Check the BIS website for the latest amendments and applicable certification requirements.",
+    "source": "BIS official website — Product Manual for IS 14543:2024 (July 2025)",
+    "url": "https://www.bis.gov.in/wp-content/uploads/2025/07/PM-14543-July-2025-Rev.pdf",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS037",
+    "category": "consumer",
+    "question": "What are the different BIS standard marks?",
+    "alt_questions": [
+      "Which marks are issued by BIS?",
+      "What is the difference between ISI mark, CRS registration mark and hallmark?",
+      "BIS ke kaun kaun se marks hote hain?",
+      "बीआईएस के कौन-कौन से मानक चिह्न हैं?"
+    ],
+    "answer": "BIS describes different marks for different conformity-assessment schemes. These include the ISI Mark and Eco Mark for products covered under Scheme-I, the Registration Mark for products covered under Scheme-II (self-declaration of conformity), and the Hallmark for precious-metal articles. The applicable mark depends on the product and the relevant scheme.",
+    "source": "BIS official website — For Consumers FAQ",
+    "url": "https://www.bis.gov.in/consumer-overview/for-consumers-faq/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS038",
+    "category": "consumer",
+    "question": "How can I verify whether a product has a genuine BIS licence?",
+    "alt_questions": [
+      "How do I check a BIS licence number?",
+      "How to verify ISI mark online?",
+      "Can I check the authenticity of a BIS marked product?",
+      "BIS licence kaise verify karein?",
+      "उत्पाद का BIS लाइसेंस कैसे जांचें?"
+    ],
+    "answer": "The BIS CARE app provides a “Verify Licence Details” feature to check the authenticity of a product carrying a BIS mark. Check the licence details against the product and its marking. For a current and authoritative result, use the official BIS CARE app or BIS website.",
+    "source": "BIS official website — BIS CARE App",
+    "url": "https://www.bis.gov.in/bis-apps/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS039",
+    "category": "hallmarking",
+    "question": "How can I verify a HUID on gold jewellery?",
+    "alt_questions": [
+      "How to check HUID number online?",
+      "How can I verify hallmarked jewellery?",
+      "Check gold hallmark using HUID",
+      "HUID kaise check karein?",
+      "हॉलमार्क वाले सोने के आभूषण का HUID कैसे जांचें?"
+    ],
+    "answer": "The BIS CARE app provides a “Verify HUID” feature for checking the authenticity details of a hallmarked jewellery item using its HUID number. Enter or scan the HUID in the official app and compare the returned details with the item. If details do not match, contact BIS through its official consumer complaint channels.",
+    "source": "BIS official website — BIS CARE App",
+    "url": "https://www.bis.gov.in/bis-apps/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS040",
+    "category": "consumer",
+    "question": "What is the BIS CARE app and what can it do?",
+    "alt_questions": [
+      "What is BIS Care mobile application?",
+      "How can consumers use BIS CARE?",
+      "Does BIS have an app to verify products?",
+      "बीआईएस केयर ऐप क्या है?"
+    ],
+    "answer": "BIS CARE is the Bureau of Indian Standards consumer-facing mobile app for Android and iOS. Its listed features include verifying product licence details, checking hallmarked jewellery through HUID, accessing “Know your Standards”, finding BIS laboratories and offices, viewing certification information, and registering complaints about product quality or misuse of BIS marks. The BIS website states that the app supports 12 languages.",
+    "source": "BIS official website — BIS CARE App",
+    "url": "https://www.bis.gov.in/bis-apps/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS041",
+    "category": "consumer",
+    "question": "How can I file a complaint with BIS?",
+    "alt_questions": [
+      "Where can I complain about a BIS certified product?",
+      "How to register BIS complaint online?",
+      "Can I complain through BIS CARE app?",
+      "BIS mein shikayat kaise karein?",
+      "बीआईएस में शिकायत कैसे दर्ज करें?"
+    ],
+    "answer": "BIS says consumers can register complaints online through the BIS website complaint facility or the BIS CARE mobile app. Complaints may also be sent through the channels listed by BIS, including email to complaints@bis.gov.in, or by contacting the Public Grievance Officer at the nearest BIS Regional or Branch Office. Use the current official complaint page for the latest procedure.",
+    "source": "BIS official website — Online Complaint Registration; Consumer Protection",
+    "url": "https://www.bis.gov.in/consumer-overview/online-complaint-registration/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS042",
+    "category": "consumer",
+    "question": "What types of complaints can be submitted to BIS?",
+    "alt_questions": [
+      "What can I complain to BIS about?",
+      "Can I report misuse of ISI mark to BIS?",
+      "Can I complain about poor quality of a BIS marked product?",
+      "बीआईएस में किस तरह की शिकायत कर सकते हैं?"
+    ],
+    "answer": "BIS lists complaint categories including quality of BIS-certified products (including products under compulsory registration and hallmarking schemes), misuse of the BIS Standard Mark, violation of a Quality Control Order, misleading claims of conformity to Indian Standards, and issues relating to BIS services or other matters. Refer to the current BIS complaint page for the correct category and process.",
+    "source": "BIS official website — For Consumers FAQ",
+    "url": "https://www.bis.gov.in/consumer-overview/for-consumers-faq/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS043",
+    "category": "standards",
+    "question": "How are Indian Standards developed by BIS?",
+    "alt_questions": [
+      "How are Indian Standards developed?",
+      "How does BIS formulate Indian Standards?",
+      "Who prepares Indian Standards?",
+      "What is the BIS standards development process?",
+      "भारतीय मानक कैसे बनाए जाते हैं?",
+      "BIS standard kaise banta hai?"
+    ],
+    "answer": "BIS formulates Indian Standards through specialist technical committees, including sectional committees and supporting subcommittees or panels. The process brings together relevant stakeholders such as manufacturers, users, technologists and regulators. Committee decisions are reached through consensus, with consultation intended to consider significant viewpoints.",
+    "source": "BIS official website — Standardization (Products & Methods)",
+    "url": "https://www.bis.gov.in/standards/standardization-products-methods/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS044",
+    "category": "standards",
+    "question": "Who participates in the development of Indian Standards?",
+    "alt_questions": [
+      "Who is involved in BIS technical committees?",
+      "Do manufacturers and consumers help make standards?",
+      "Who contributes to standard formulation in India?",
+      "भारतीय मानक बनाने में कौन भाग लेता है?"
+    ],
+    "answer": "BIS technical committees are designed to bring together stakeholders with an interest in the subject. BIS identifies groups such as manufacturers, users, technologists and regulators. The committee process aims to balance their interests and reach decisions through consensus.",
+    "source": "BIS official website — Standardization (Products & Methods)",
+    "url": "https://www.bis.gov.in/standards/standardization-products-methods/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS045",
+    "category": "consumer",
+    "question": "What is misuse of the BIS Standard Mark?",
+    "alt_questions": [
+      "Can a company use ISI mark without licence?",
+      "What if a product displays a fake BIS mark?",
+      "Is using a BIS mark without permission illegal?",
+      "बीआईएस मार्क का दुरुपयोग क्या है?"
+    ],
+    "answer": "BIS explains that using the BIS Standard Mark without a valid BIS licence, or using a colourable imitation of the mark, amounts to misuse under the BIS Act, 2016. Consumers can report suspected misuse through BIS complaint channels. The legal position and enforcement action should be checked against the current Act and official BIS guidance.",
+    "source": "BIS official website — For Consumers FAQ",
+    "url": "https://www.bis.gov.in/consumer-overview/for-consumers-faq/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS046",
+    "category": "consumer",
+    "question": "How can I find BIS laboratories and offices?",
+    "alt_questions": [
+      "Where are BIS testing labs located?",
+      "How to locate a BIS branch office?",
+      "Can the BIS CARE app show nearby BIS labs?",
+      "बीआईएस प्रयोगशाला या कार्यालय कैसे खोजें?"
+    ],
+    "answer": "The BIS CARE app lists locations of BIS laboratories and offices. Use the official app or BIS website to find current location and contact information before visiting.",
+    "source": "BIS official website — BIS CARE App",
+    "url": "https://www.bis.gov.in/bis-apps/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS047",
+    "category": "consumer",
+    "question": "How many languages does the BIS CARE app support?",
+    "alt_questions": [
+      "Is BIS CARE available in Hindi?",
+      "Does BIS CARE support regional languages?",
+      "BIS Care app languages",
+      "बीआईएस केयर ऐप कितनी भाषाओं में उपलब्ध है?"
+    ],
+    "answer": "The BIS website states that the BIS CARE app supports 12 languages, including Hindi and English as well as 10 regional languages. Check the current app listing for the latest availability.",
+    "source": "BIS official website — BIS CARE App",
+    "url": "https://www.bis.gov.in/bis-apps/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS048",
+    "category": "standards",
+    "question": "What is the Know Your Standards feature in the BIS CARE app?",
+    "alt_questions": [
+      "Can I search Indian Standards in BIS CARE?",
+      "How to find a standard number using BIS CARE?",
+      "What information does Know your Standards provide?",
+      "BIS CARE mein Know Your Standards kya hai?"
+    ],
+    "answer": "The BIS CARE app includes a “Know your Standards” feature. BIS says it provides information about an Indian Standard, licences against that standard and laboratories for the relevant product. Use the app for current details.",
+    "source": "BIS official website — BIS CARE App",
+    "url": "https://www.bis.gov.in/bis-apps/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  },
+  {
+    "id": "BIS049",
+    "category": "consumer",
+    "question": "What information should I provide when complaining about a BIS certified product?",
+    "alt_questions": [
+      "What details to include in BIS consumer complaint?",
+      "What information should I provide when complaining about a BIS certified product?",
+      "What details are needed for BIS product complaint?",
+      "What evidence should I keep for a BIS complaint?",
+      "How to complain about defective ISI marked goods?",
+      "बीआईएस उत्पाद की शिकायत में कौन सी जानकारी दें?"
+    ],
+    "answer": "BIS consumer guidance asks complainants to provide product details such as name, type, size, grade or variety; purchase source and date; batch number; licence number if available; whether the Standard Mark is present; and the nature of the complaint. Keep the purchase receipt if available and preserve the product and its packaging for possible inspection. Follow the current BIS complaint guidance.",
+    "source": "BIS official website — Consumer Protection",
+    "url": "https://www.bis.gov.in/consumer-overview/consumer-protection/?lang=en",
+    "verified": true,
+    "last_checked": "2026-11-07"
+  }
+]
